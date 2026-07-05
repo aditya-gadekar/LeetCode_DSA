@@ -7,6 +7,7 @@ My practice Quetions here
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,4 +33,12 @@ My practice Quetions here
 | ------- |
 | [0070-climbing-stairs](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
