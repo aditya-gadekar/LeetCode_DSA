@@ -45,4 +45,8 @@ My practice Quetions here
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
