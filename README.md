@@ -7,6 +7,7 @@ My practice Quetions here
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0518-coin-change-ii) |
@@ -49,4 +50,12 @@ My practice Quetions here
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
