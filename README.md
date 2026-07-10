@@ -32,6 +32,7 @@ My practice Quetions here
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -50,6 +51,7 @@ My practice Quetions here
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
