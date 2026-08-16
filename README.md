@@ -65,6 +65,7 @@ My practice Quetions here
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0234-palindrome-linked-list) |
 ## Sorting
@@ -79,4 +80,8 @@ My practice Quetions here
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aditya-gadekar/LeetCode_DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
